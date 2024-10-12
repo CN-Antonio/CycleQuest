@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">导航应用</string>
     <string name="plan_route">规划路线</string>
+
+<!--    Navigation Bar-->
+    <string name="title_home">Map</string>
+    <string name="title_bike">Bike</string>
+    <string name="title_community">Community</string>
+    <string name="title_my">My</string>
 </resources>
